@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JG.Forms", "JG.Forms\JG.Forms.csproj", "{6FE00321-B20C-489E-9BE6-28290BBA2B84}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JG.Forms.Demo.AppBar", "JG.Forms.Demo.AppBar\JG.Forms.Demo.AppBar.csproj", "{9849CA1E-F411-4EB5-ACBC-9B350109A480}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JG.Utility", "JG.Utility\JG.Utility.csproj", "{776CBED9-B812-44B5-81D7-346E0CE39ADF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JG.UtilityTests", "JG.UtilityTests\JG.UtilityTests.csproj", "{D26CEF8E-5CEB-4B0A-9D1A-6C5E56B2CE53}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,6 +51,18 @@ Global
 		{776CBED9-B812-44B5-81D7-346E0CE39ADF}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{776CBED9-B812-44B5-81D7-346E0CE39ADF}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{776CBED9-B812-44B5-81D7-346E0CE39ADF}.Release|x86.ActiveCfg = Release|Any CPU
+		{D26CEF8E-5CEB-4B0A-9D1A-6C5E56B2CE53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D26CEF8E-5CEB-4B0A-9D1A-6C5E56B2CE53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D26CEF8E-5CEB-4B0A-9D1A-6C5E56B2CE53}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{D26CEF8E-5CEB-4B0A-9D1A-6C5E56B2CE53}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{D26CEF8E-5CEB-4B0A-9D1A-6C5E56B2CE53}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D26CEF8E-5CEB-4B0A-9D1A-6C5E56B2CE53}.Debug|x86.Build.0 = Debug|Any CPU
+		{D26CEF8E-5CEB-4B0A-9D1A-6C5E56B2CE53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D26CEF8E-5CEB-4B0A-9D1A-6C5E56B2CE53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D26CEF8E-5CEB-4B0A-9D1A-6C5E56B2CE53}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{D26CEF8E-5CEB-4B0A-9D1A-6C5E56B2CE53}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{D26CEF8E-5CEB-4B0A-9D1A-6C5E56B2CE53}.Release|x86.ActiveCfg = Release|Any CPU
+		{D26CEF8E-5CEB-4B0A-9D1A-6C5E56B2CE53}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
