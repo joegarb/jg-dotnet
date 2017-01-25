@@ -8,8 +8,8 @@
     <ProjectGuid>{9849CA1E-F411-4EB5-ACBC-9B350109A480}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>JG.Forms.Test</RootNamespace>
-    <AssemblyName>JG.Forms.Test.AppBar</AssemblyName>
+    <RootNamespace>JG.Forms.Demo.AppBar</RootNamespace>
+    <AssemblyName>JG.Forms.Demo.AppBar</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>
     </TargetFrameworkProfile>
